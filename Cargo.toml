@@ -1,0 +1,8 @@
+[package]
+name = "gladiator"
+version = "0.1.0"
+authors = ["Ilya Bogdanov <fumlead@gmail.com>"]
+
+[dependencies]
+specs = "0.8"
+tcod = "0.11"
